@@ -1,0 +1,2 @@
+you can download them through the following links：https://github.com/CLUEbenchmark/CLUECorpus2020;https://www.atyun.com/datasets/files/nthngdy/oscar-mini.html;
+Of course, in the dataset, we provide a portion of the available data for you to run the code easily.
